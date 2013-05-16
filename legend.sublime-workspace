@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "design.md",
+			"settings":
+			{
+				"buffer_size": 625,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Developer Stuffs/Ruby Stuff/something.rb",
+		"/D/Developer Stuffs/Ruby Stuff/blocks.rb",
+		"/D/Developer Stuffs/Ruby Stuff/THErepo/OptimusPrime3.rb",
+		"/D/Developer Stuffs/Ruby Stuff/THErepo/multiples.rb",
+		"/D/Developer Stuffs/Ruby Stuff/THErepo/Fibonacci.rb",
+		"/D/Developer Stuffs/Ruby Stuff/notes",
+		"/D/Developer Stuffs/vagrant/Vagrantfile",
+		"/D/Developer Stuffs/Ruby Stuff/website/public/css/kj.css",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/layout.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/index.rb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/index.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/about.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/geekiness.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/musics.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/playtime.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/.gitignore",
+		"/D/Developer Stuffs/Ruby Stuff/website/kj.sublime-project",
+		"/D/Developer Stuffs/Ruby Stuff/Fibonacci.rb",
+		"/D/Developer Stuffs/Ruby Stuff/multiples.rb",
+		"/D/Developer Stuffs/Ruby Stuff/index.rb",
+		"/D/Developer Stuffs/Ruby Stuff/config.ru",
+		"/D/Developer Stuffs/Ruby Stuff/views/index.erb",
+		"/D/Developer Stuffs/Ruby Stuff/views/about.erb",
+		"/D/Developer Stuffs/Ruby Stuff/views/geekiness.erb",
+		"/D/Developer Stuffs/Ruby Stuff/views/photography.erb",
+		"/D/Developer Stuffs/Ruby Stuff/views/playtime.erb",
+		"/D/Developer Stuffs/Ruby Stuff/views/musics.erb",
+		"/D/Developer Stuffs/Ruby Stuff/HelloWorld2.rb",
+		"/D/Developer Stuffs/Ruby Stuff/OptimusPrime.rb",
+		"/D/Developer Stuffs/Ruby Stuff/views/musics.erb.html",
+		"/D/Developer Stuffs/Ruby Stuff/views/musics.html",
+		"/C/Users/KatieJo/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/KatieJo/AppData/Roaming/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/D/Developer Stuffs/Ruby Stuff/CapIt.rb",
+		"/D/Developer Stuffs/Ruby Stuff/index.erb",
+		"/D/Developer Stuffs/Ruby Stuff/MultOrig.rb",
+		"/D/Developer Stuffs/Ruby Stuff/Fibonacci",
+		"/D/Developer Stuffs/Ruby Stuff/Index.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"width",
+			"solid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spec/spec_helper.rb",
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "design.md",
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true
+}

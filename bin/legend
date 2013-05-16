@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'legend'
+Legend::Client.new.run

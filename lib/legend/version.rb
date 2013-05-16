@@ -1,0 +1,3 @@
+module Legend
+  VERSION = "0.0.1"
+end
