@@ -12,7 +12,7 @@ module Legend
   		if @command_list.include? command
   			return (send command)
   		else
-  			return "You can't do that, noob."
+  			return "You can't do that, noob. Allons-y!"
   		end
   	end
   end
